@@ -1,0 +1,82 @@
+################ Linux  Administration WK-1 ##################
+
+What is Linux
+What is an Operating System
+Components of a Linux Operating System
+           Bootloader
+              Kernel
+                Init
+                  Runlevels
+                  System V
+                  Upstart
+                  Systemd
+                Shell
+
+            Graphical Environment
+              X Window System
+              Wayland
+              Mir
+            Desktop Environment
+            Applications
+            File System
+
+
+Why Use Linux
+       Its Free
+         Its Open Source
+            Its Secure
+            Its Stable
+            Its Portable
+            Its Powerful
+            Its Customizable
+            Its Easy to Use
+            Its Fun
+            Its Fast
+            Its Reliable
+            Its Efficient
+            Its Scalable
+            Its Flexible
+            Its Versatile
+
+Linux Distributions
+        Debian
+        Ubuntu
+        Fedora
+        Red Hat
+        CentOS
+        OpenSUSE
+        Arch
+        Gentoo
+
+Linux Servers
+       CentOS 
+         Ubuntu Server
+            Debian Server
+            Fedora Server
+            OpenSUSE Server
+
+Linux File Systems
+What is a File System
+      It is a way to organize files on a disk
+      The root directory (/)
+        Ext2
+        Ext3
+        Ext4
+        XFS
+        Btrfs
+        ReiserFS
+        JFS
+        ZFS
+        NTFS
+        FAT32
+        HFS+
+
+    Paths should be specific
+    Partitions, Directories and Drives
+    Directories and File names are case sensitive
+    File extensions
+    Hidden files (ls -a)
+
+Updating `sudo apt update` or `sudo apt-get update`
+Upgrade `sudo apt upgrade` or `sudo apt-get upgrade`
+Install `sudo apt install packege-name` or `sudo snap install package-name`

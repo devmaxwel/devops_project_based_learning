@@ -1,0 +1,30 @@
+apt is package managment for Linux
+sudo - super-user do
+reason to apt-update is to update the package list
+pwd - print working directory
+cd - change directory
+ls - list
+ls -a - list all
+ls -l - list long
+cd .. - go back one directory
+mkdir - make directory
+rmdir - remove directory
+touch - create a file
+rm - remove a file
+rm -r - remove a directory
+rm -rf - remove a directory and all of its contents
+cp - copy a file
+cp -r - copy a directory
+mv - move a file
+mv -r - move a directory
+sudo -aG sudo username - add user to sudo group
+nano - text editor
+nano sample.txt - open sample.txt in nano
+cat sample.txt - print the contents of sample.txt
+
+
+########### Command Line, Files System and Desktop Environment, Directpry Naviation #####
+Command Line - is a text interface for your computer.
+File System - is a way to organize files and directories.
+Desktop Environment - is a graphical user interface for your computer.
+Directory Navigation - is a way to move around in the file system.
